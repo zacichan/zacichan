@@ -10,12 +10,6 @@ I'm an experienced data scientist with a passion for using advanced analytics to
 - **Data Visualization:** Communicating complex information effectively through data visualization.
 - **Project Management:** Structuring and documenting code for efficient project management.
 
-### 🌱 I'm currently learning:
-
-- **Cloud Technologies:** Exploring the potential of cloud platforms for data analysis and machine learning.
-- **Natural Language Processing:** Diving deeper into NLP techniques and pre-trained language models.
-- **Agile Project Management:** Enhancing my skills in agile methodologies and scrum mastering.
-
 ### 💞️ I'm looking to collaborate on:
 
 - **Data Science Projects:** Collaborative data analysis, machine learning, and visualization projects.
