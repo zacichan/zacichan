@@ -1,20 +1,6 @@
 ### 👋 Hi, I'm Zac!
 
-I'm an experienced data scientist with a passion for using advanced analytics to drive impactful insights and innovative solutions. With a strong foundation in economics and a track record of leading high-profile analytical projects, I'm dedicated to making data-driven decisions that contribute to meaningful policy objectives.
-
-### 👀 I'm interested in:
-
-- **Data Science:** Applying a wide range of techniques across data sources to deliver impactful analytical tools.
-- **Economics:** Leveraging economic principles to inform decision-making.
-- **Machine Learning:** Using machine learning techniques to extract insights and solve complex problems.
-- **Data Visualization:** Communicating complex information effectively through data visualization.
-- **Project Management:** Structuring and documenting code for efficient project management.
-
-### 💞️ I'm looking to collaborate on:
-
-- **Data Science Projects:** Collaborative data analysis, machine learning, and visualization projects.
-- **Open-Source Contributions:** Contributing to open-source projects in the data science and analytics space.
-- **Policy Analysis:** Partnering on projects that have a real-world impact on policy and decision-making.
+I'm a data scientist and economist with a passion with a strong foundation in economics and a track record of leading high-profile analytical projects in th epiblic sector, I'm dedicated to making data-driven decisions that contribute to meaningful policy objectives.
 
 ### 📫 How to reach me:
 
